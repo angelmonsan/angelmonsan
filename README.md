@@ -1,12 +1,22 @@
-<h1>Welcome !👋</h1>
+![download](https://github.com/user-attachments/assets/fc99a574-9514-4af1-9de5-f24ff45d038a)>
 
+## Welcome to my profile !👋🤗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎮 **I’m currently learning:**
+- How it works and the history of AI
+- Creating a game in Godot and Unity
+- The art of games (2D and 3D)
+---
 
+## 🎨 **About me:**
+- ♂️ **Pronouns: He/Him**
+- 🎒 **I'm currently studying at Unifil**
+- 🧠 **Almost 70 certificates**
+---
+
+## 📫 How to reach me?
+- **angelodossantosmonteiro0@gmail.com**
+---
+
+### 🫂 Thanks for reading this far 🫂
+---
